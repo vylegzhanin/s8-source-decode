@@ -1,0 +1,12 @@
+* text=auto
+
+*.java text
+*.kt text
+*.xml text
+*.iml text
+*.json text
+
+*.png binary
+*.jpg binary
+*.ico binary
+*.zip binary
